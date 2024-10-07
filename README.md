@@ -3,7 +3,7 @@
 
 📔 Crie uma lista de tarefas, utilizando as melhores praticas em ReactJS.
 
-https://desafio03-dnc.vercel.app/
+(https://desafio03-dnc-rafael.netlify.app/)
 ## Funcionalidades
 
 - Adicionar tarefas, visualisar, editar, deletar.
@@ -25,9 +25,3 @@ Rode o seguinte comando
   
   npm run dev
 ```
-
-
-## 🔗 Links
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marcelo-Anselmo)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-anselmo-41587b280/)
-
